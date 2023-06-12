@@ -15,6 +15,12 @@ the following links of the mentioned files:
 
 1.- LegendrePol_3D Images link: https://drive.google.com/drive/folders/13LwL9BO7SX-WcCe-O6R_7SnxoR0IMPlv?usp=sharing
 
+We now share the links for Video_1 and Video_2, which are the videos for our top results; the 3D models of the cells
+or SARS-CoV-2 Viral Particles.
+
+2.- Video_1 Link https://drive.google.com/file/d/1bQqFdG2sEtRpTDPCeft67bFpemwptGwk/view?usp=sharing
+
+3.- Video_2 Link: https://drive.google.com/file/d/1jLidVhucaFXlpTHFiFzq35C4ipg6sTRP/view?usp=sharing
 
 
 Instrucciones en Español
@@ -33,4 +39,11 @@ tenemos acceso a los modelos 3D de las Viral Particles (VP) de SARS-CoV-2 trabaj
 los siguientes enlaces de los archivos mencionados:
 
 1.- LegendrePol_3D Images    link: https://drive.google.com/drive/folders/13LwL9BO7SX-WcCe-O6R_7SnxoR0IMPlv?usp=sharing
+
+Ahora compartimos los enlaces para Video_1 y Video_2, que son los videos de nuestros resultados principales; lo modelos 3D de las cells
+o SARS-CoV-2 Viral Particles.
+
+2.- Video_1           Link   https://drive.google.com/file/d/1bQqFdG2sEtRpTDPCeft67bFpemwptGwk/view?usp=sharing
+
+3.- Video_2           Link:  https://drive.google.com/file/d/1jLidVhucaFXlpTHFiFzq35C4ipg6sTRP/view?usp=sharing
 
