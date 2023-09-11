@@ -2,13 +2,14 @@ function [Res] = Results(x,y,z)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled  "Phase analysis simulating the Takeda method
+%    the manuscript entitled  "Phase analysis simulating the Takeda method 
 %    to obtain a 3D profile of SARS-CoV-2 cells", submitted to Transactions
-%    on Image Processing-IEEE.
+%    on Pattern Analysis and Applications-Springer.
 %
 %    Correspondings Authors:
 %    Dr. Jesus Alonso Arriaga Hernandez
 %    jesus.arriagahdz@correo.buap.mx;    dr.j.a.arriaga.hernandez@gmail.com
+%    
 %    Dra. Bolivia Teresa Cuevas Otahola
 %    b.cuevas@irya.unam.mx;                      b.cuevas.otahola@gmail.com
 %
