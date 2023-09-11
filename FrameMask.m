@@ -3,7 +3,7 @@
 clear all; close all;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled  "Phase analysis simulating the Takeda method
+%    the manuscript entitled  "Phase analysis simulating the Takeda method 
 %    to obtain a 3D profile of SARS-CoV-2 cells", submitted to Transactions
 %    on Pattern Analysis and Applications-Springer.
 
