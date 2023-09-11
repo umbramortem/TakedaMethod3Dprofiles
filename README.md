@@ -2,7 +2,7 @@ English Instructions
 
 Unfortunately the present platform (https://github.com/) does not allow uploading very large or heavy files larger than 25mb,
 the same as Springer on his platform and likewise his Journals; as Pattern Analysis and Applications. For this reason the
-other files mentioned in the manuscript entitled "Phase analysis simulating the Takeda method to obtain a 3D profile of
+other files mentioned in the manuscript entitled "Phase analysis simulating the Takeda method to obtain a 3D profile of 
 SARS-CoV-2 cells" as "3DMod_VP_1.mat" and "3DMod_VP_2.mat" were mounted on another platform in order to provide access
 to the readers. Where said platform only depends on our management, in google drive but with great capacity.
 
