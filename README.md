@@ -43,6 +43,7 @@ Los siguientes enlaces de los archivos mencionados:
 Ahora compartimos los enlaces para Video_1 y Video_2, que son los videos de nuestros resultados principales; lo modelos 3D de las cells
 o SARS-CoV-2 Viral Particles (Fig. 10).
 
+
 2.- Video_1           Link   https://drive.google.com/file/d/1bQqFdG2sEtRpTDPCeft67bFpemwptGwk/view?usp=sharing
 
 3.- Video_2           Link:  https://drive.google.com/file/d/1jLidVhucaFXlpTHFiFzq35C4ipg6sTRP/view?usp=sharing
