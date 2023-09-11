@@ -6,6 +6,7 @@ clear all; close all;
 %    the manuscript entitled  "Phase analysis simulating the Takeda method
 %    to obtain a 3D profile of SARS-CoV-2 cells", submitted to Transactions
 %    on Pattern Analysis and Applications-Springer.
+
 %    We recall that the ROIs are built from 3D tomographic data in the 
 %    research work "Live imaging of SARS-CoV-2 infection in mice reveals
 %    that neutralizing antibodies require Fc function for optimal efficacy"
